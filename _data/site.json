@@ -1,0 +1,5 @@
+{
+    "name": "Eleventy Watch Issue Sample",
+    "description": "An example 11ty site that shows the issue I'm encountering with watch targets",
+    "favicon": "/favicon.png"
+}
